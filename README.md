@@ -8,7 +8,7 @@ To projected consisted of builind an HTML page to pull up information using java
 # HTML Page
 ![](HTML_results.png)
 
-When you enter the website you will see the basic opening and title, as you scroll down they will begin to see all the data and filters. 
+When you enter the website you will see the basic opening and title, as you scroll down you will begin to see all the data and filters. 
 
 ![](HTML_search.png)
 
