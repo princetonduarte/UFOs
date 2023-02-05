@@ -8,3 +8,10 @@ To projected consisted of builind an HTML page to pull up information using java
 # HTML Page
 ![](HTML_results.png)
 
+When you enter the website you will see the basic opening and title, as you scroll down they will begin to see all the data and filters. 
+
+![](HTML_search.png)
+
+# Summary
+
+The page has been created allows users to filter through 5 different settings using the data set provided. 
